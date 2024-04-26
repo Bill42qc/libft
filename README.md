@@ -89,4 +89,3 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ---
 
 Pour toute question ou préoccupation, n'hésitez pas à ouvrir une issue ou à contacter [votre-email@example.com](mailto:votre-email@example.com).
-
