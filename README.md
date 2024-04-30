@@ -19,7 +19,7 @@ Installation
 
 bash
 
-git clone https://github.com/votre-nom-utilisateur/libft.git
+git clone https://github.com/Bill42qc/libft.git
 
     Accédez au répertoire du projet :
 
